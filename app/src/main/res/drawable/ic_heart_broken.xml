@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Left Half of Broken Heart -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M11.2,20.5 L10.55,19.93 C5.4,15.36 2,12.28 2,8.5 C2,5.42 4.42,3 7.5,3 C9.24,3 10.91,3.81 11.2,5.09 V7.5 L9.2,10 L11.2,12.5 L9.2,15 L11.2,17.5 V20.5 Z"/>
+    <!-- Right Half of Broken Heart -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M12.8,20.5 V17.5 L14.8,15 L12.8,12.5 L14.8,10 L12.8,7.5 V5.09 C13.09,3.81 14.76,3 16.5,3 C19.58,3 22,5.42 22,8.5 C22,12.28 18.6,15.36 13.45,19.93 L12.8,20.5 Z"/>
+</vector>
